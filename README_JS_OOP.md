@@ -4,6 +4,4 @@ Additionally, the Person class has a method called "sayHello" that logs a greeti
 name and age in the message.
 The code also demonstrates how to create a new instance of the Person class using the "new" keyword and passing in the person's name and age as arguments 
 to the constructor method. Finally, the sayHello method is called on the person1 instance, which logs the greeting message to the console.
-This code showcases the fundamentals of object-oriented programming in JavaScript, including the creation of classes, properties, and methods using class 
-syntax. It also demonstrates how to create instances of a class and call methods on those instances. This code can serve as a good starting point for 
-learning JavaScript and object-oriented programming concepts in JavaScript.
+
